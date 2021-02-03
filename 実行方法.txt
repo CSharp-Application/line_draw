@@ -1,0 +1,13 @@
+Windows32ビットの場合
+・application.windows32の中のiroiro_maruugoku.exeを実行します。
+※32ビットの場合、Javaランタイムのインストールが必要です。
+
+Windows64ビットの場合
+・application.windows64のなかのiroiro_maruugoku.exeを実行します。
+
+操作方法
+
+「↑」キーで、速度を上げる
+「↓」キーで、速度を下げる
+※一瞬で、速度が変わります。気を付けて押してください。
+それ以外のキーで、画面を初期化
